@@ -15,6 +15,6 @@ I'm a Senior Software Engineer at AWS on OpenSearch Observability, based in Vanc
 
 #### Talks
 
-- AGNTCon + MCPCon NA 2026: *One Server, Many Apps: A Composable MCP Architecture for Observability* ([video](https://www.youtube.com/live/eB9I4Ixx2wc?t=17430))
-- KubeCon EU 2026 Observability Day: OpenSearch project update ([video](https://youtu.be/XpMWqeAey1Q?t=1403))
-- PromCon EU 2025: *From Logs to Metrics: OpenSearch's Prometheus support with Agentic AI and Natural Language to PromQL* ([video](https://www.youtube.com/watch?v=m0CNEqfmOpc))
+- AGNTCon + MCPCon NA 2026: [*One Server, Many Apps: A Composable MCP Architecture for Observability*](https://www.youtube.com/live/eB9I4Ixx2wc?t=17430)
+- KubeCon EU 2026 Observability Day: [OpenSearch project update](https://youtu.be/XpMWqeAey1Q?t=1403)
+- PromCon EU 2025: [*From Logs to Metrics: OpenSearch's Prometheus support with Agentic AI and Natural Language to PromQL*](https://www.youtube.com/watch?v=m0CNEqfmOpc)
